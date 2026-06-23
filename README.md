@@ -65,7 +65,7 @@ This project implements and analyzes GHZ states from multiple perspectives, rang
 - Cooperative recovery mechanisms
 - GHZ-based distributed secret sharing
 
-### Security Analysis
+### Security Analysis (Planned)
 
 - Intercept-resend attack simulations
 - Insider threat analysis
